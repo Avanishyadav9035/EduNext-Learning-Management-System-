@@ -1,12 +1,27 @@
-# React + Vite
+EduNext - Learning Management System (Frontend) 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EduNext is a modern frontend-only Learning Management System (LMS) built using React + Tailwind CSS. It provides a clean, responsive, and user-friendly interface for students, instructors, and admins.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📚 Course Management UI – Add, edit, and display courses with category & level.
 
-## Expanding the ESLint configuration
+👩‍🏫 Instructor Dashboard (UI) – Manage course details.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👨‍🎓 Student Dashboard (UI) – Explore, search, and enroll in courses.
+
+🔐 Authentication Pages – Login & Signup screens (UI only).
+
+🌙 Dark/Light Mode toggle.
+
+📱 Responsive Design – Works on mobile, tablet, and desktop.
+
+🛠️ Tech Stack
+
+React.js (Vite)
+
+Tailwind CSS
+
+React Router DOM
+
+LocalStorage (for demo authentication & user data)
