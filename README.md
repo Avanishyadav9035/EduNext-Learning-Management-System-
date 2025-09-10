@@ -24,4 +24,4 @@ Tailwind CSS
 
 React Router DOM
 
-LocalStorage (for demo authentication & user data)
+LocalStorage (for demo authentication & user data) 
